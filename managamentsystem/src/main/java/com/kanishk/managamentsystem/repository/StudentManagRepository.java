@@ -7,8 +7,4 @@ import com.kanishk.managamentsystem.entity.StudentManag;
 public interface StudentManagRepository extends JpaRepository<StudentManag, Long>{
 
 	
-	
-	
-	
-	
 }
